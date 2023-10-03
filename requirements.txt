@@ -1,0 +1,15 @@
+matplotlib==3.3.4
+scipy==1.6.2
+trimesh==3.9.14
+scikit_image==0.18.1
+tqdm==4.60.0
+# torch==1.8.0 # Install with instructions from https://pytorch.org/get-started/locally/
+plyfile==0.7.2
+numpy==1.19.2
+open3d==0.11.2
+Pillow==8.2.0
+tensorboardX==2.3
+requests
+psutil
+# plotly # should install plotly-orca from conda
+kaleido
