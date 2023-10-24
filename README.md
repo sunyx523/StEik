@@ -85,6 +85,8 @@ These scripts have bash variables for changing the input, major hyperparameters,
 
 Thanks to the [DiGS](https://github.com/Chumbyte/DiGS) codebase off whom we built upon. 
 
+Supported in part by Army Research Office (ARO) W911NF-22-1-0267 and by the Intelligence Advanced Research Projects Activity (IARPA) via Department of Interior/ Interior Business Center (DOI/IBC) contract number 140D0423C0075. The U.S. Government is authorized to reproduce and distribute reprints for Governmental purposes notwithstanding any copyright annotation thereon. Disclaimer: The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of IARPA, DOI/IBC, or the U.S. Government.
+
 ## License and Citation
 
 If you find our work useful in your research, please cite our paper:
